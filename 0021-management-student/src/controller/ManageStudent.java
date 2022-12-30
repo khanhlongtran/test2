@@ -17,6 +17,7 @@ public class ManageStudent {
 
     List<Student> listStudent = new ArrayList<>();
     List<Report> listReport = new ArrayList<>();
+    List<Report> listReport1 = new ArrayList<>();
 
     public List<Report> getListReport() {
         return listReport;
